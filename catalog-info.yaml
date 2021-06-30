@@ -1,0 +1,10 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "golang-rest-template"
+  description: "A simple Go microservice boilerplate."
+spec:
+  type: service
+  lifecycle: production
+  owner: "team-india"
